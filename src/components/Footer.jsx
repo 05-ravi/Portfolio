@@ -12,6 +12,7 @@ const Footer = () => {
   ];
 
   const navItems = ['Home', 'About', 'Skills', 'Projects', 'Education', 'Contact'];
+  
 
   return (
     <footer className="relative overflow-hidden">
