@@ -19,6 +19,7 @@ const Contact = () => {
     setStatus('loading');
     
     try {
+      
       // Web3Forms Integration: 
       // 1. Get your free access key from https://web3forms.com/ using your email
       // 2. Replace "YOUR_ACCESS_KEY_HERE" below with your actual key
