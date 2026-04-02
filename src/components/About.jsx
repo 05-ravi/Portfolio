@@ -11,6 +11,7 @@ const AnimatedCounter = ({ value }) => {
   const suffix = value.toString().replace(/[0-9]/g, '');
 
   useEffect(() => {
+    
     if (inView) {
       let startTime = null;
       const duration = 2000;
